@@ -86,10 +86,14 @@ https://github.com/DrkSephy/es6-cheatsheet
 https://github.com/wesbos/JavaScript30
 
 
+
 awesome-javascript:
 https://github.com/sorrycc/awesome-javascript
 
-https://github.com/mui-org/material-ui
+https://github.com/validatorjs/validator.js
+
+
+
 
 https://github.com/impress/impress.js
 
@@ -149,6 +153,14 @@ https://github.com/minirefresh/minirefresh
 
 JavaScript Style Guide：
 https://github.com/airbnb/javascript
+
+### material design相关
+
+https://github.com/material-components/material-components-web
+
+https://github.com/mui-org/material-ui
+
+https://github.com/google/material-design-lite
 
 
 ### jQuery
@@ -289,6 +301,8 @@ https://github.com/justjavac/awesome-wechat-weapp
 
 https://github.com/aNd1coder/taro-waterfall
 
+https://github.com/geeeeeeeeek/electronic-wechat
+
 
 ## TypeScript
 
@@ -323,6 +337,27 @@ https://github.com/deanhume/progressive-web-apps-book
 https://github.com/SangKa/PWA-Book-CN
 
 https://github.com/Huxpro/huxpro.github.io
+
+## 前端安全
+
+https://github.com/FallibleInc/security-guide-for-developers
+
+
+## 性能优化
+
+https://github.com/GoogleChrome/lighthouse
+
+
+## 函数式编程
+
+https://github.com/MostlyAdequate/mostly-adequate-guide
+
+
+
+
+## AngularJS
+
+https://github.com/jmcunningham/AngularJS-Learning
 
 
 ## 工具
@@ -359,6 +394,10 @@ https://github.com/jaywcjlove/awesome-mac
 
 https://github.com/dvajs/dva-knowledgemap
 
+## 代码规范
+
+https://github.com/bendc/frontend-guidelines
+
 
 ## 算法
 
@@ -381,6 +420,11 @@ https://github.com/MisterBooo/LeetCodeAnimation
 ## 设计模式
 
 https://github.com/me115/design_patterns
+
+https://github.com/iluwatar/java-design-patterns
+
+https://github.com/iluwatar/java-design-patterns
+
 
 ## 代码优化
 
@@ -413,6 +457,7 @@ https://github.com/fxsjy/jieba
 
 Tensorflow:
 https://github.com/nfmcclure/tensorflow_cookbook
+
 
 ## iOS
 
