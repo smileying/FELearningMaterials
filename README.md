@@ -394,9 +394,11 @@ https://github.com/jaywcjlove/awesome-mac
 
 https://github.com/dvajs/dva-knowledgemap
 
-## 代码规范
+## 项目及代码规范相关
 
 https://github.com/bendc/frontend-guidelines
+
+https://github.com/elsewhencode/project-guidelines
 
 
 ## 算法
