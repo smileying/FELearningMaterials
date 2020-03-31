@@ -189,6 +189,12 @@ https://github.com/the-road-to-learn-react/the-road-to-learn-react-chinese
 深入浅出React和Redux:
 https://github.com/mocheng/react-and-redux
 
+React模式:
+https://github.com/SangKa/react-in-patterns-cn
+
+https://sangka.github.io/react-in-patterns-cn/
+
+
 https://github.com/brillout/awesome-react-components
 
 https://github.com/petehunt/react-howto
