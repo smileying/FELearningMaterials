@@ -69,35 +69,42 @@ https://github.com/FortAwesome/Font-Awesome
 
 ## javascript
 
+### es6
+
+https://github.com/lukehoban/es6features
+
 ECMAScript 6入门:
 https://github.com/ruanyf/es6tutorial
 
 深入理解ES6:
 https://github.com/hyy1115/ES6-learning
 
+https://github.com/DrkSephy/es6-cheatsheet
+
+https://github.com/mbeaudru/modern-js-cheatsheet
+
+### promise
+
 promises-book:
 https://github.com/liubin/promises-book
 
+### You-Dont-Need-JavaScript
 You-Dont-Need-JavaScript:
 https://github.com/you-dont-need/You-Dont-Need-JavaScript
   
-https://github.com/DrkSephy/es6-cheatsheet
+
+###
 
 https://github.com/wesbos/JavaScript30
-
-
 
 awesome-javascript:
 https://github.com/sorrycc/awesome-javascript
 
+### 
 https://github.com/validatorjs/validator.js
 
 
-
-
 https://github.com/impress/impress.js
-
-https://github.com/mbeaudru/modern-js-cheatsheet
 
 https://github.com/popperjs/popper-core
 
@@ -151,8 +158,7 @@ https://github.com/julianshapiro/velocity
 下拉刷新：
 https://github.com/minirefresh/minirefresh
 
-JavaScript Style Guide：
-https://github.com/airbnb/javascript
+
 
 ### material design相关
 
@@ -352,8 +358,7 @@ https://github.com/GoogleChrome/lighthouse
 
 https://github.com/MostlyAdequate/mostly-adequate-guide
 
-
-
+https://github.com/getify/Functional-Light-JS
 
 ## AngularJS
 
@@ -400,6 +405,9 @@ https://github.com/bendc/frontend-guidelines
 
 https://github.com/elsewhencode/project-guidelines
 
+JavaScript Style Guide：
+https://github.com/airbnb/javascript
+
 
 ## 算法
 
@@ -419,19 +427,21 @@ https://github.com/azl397985856/leetcode
 
 https://github.com/MisterBooo/LeetCodeAnimation
 
+
 ## 设计模式
 
 https://github.com/me115/design_patterns
 
 https://github.com/iluwatar/java-design-patterns
 
-https://github.com/iluwatar/java-design-patterns
 
+https://github.com/krasimir/react-in-patterns
 
 ## 代码优化
 
 clean-code-javascript:
 https://github.com/ryanmcdermott/clean-code-javascript
+
 
 ## 机器学习
 
@@ -466,4 +476,16 @@ https://github.com/nfmcclure/tensorflow_cookbook
 https://github.com/Tim9Liu9/TimLiu-iOS
 
 https://github.com/zhouhuanqiang/LearningIOS
+
+
+## 设计
+
+https://github.com/gztchan/awesome-design
+
+## cs
+
+https://github.com/ossu/computer-science
+
+https://github.com/ryanburgess/engineer-manager
+
 
