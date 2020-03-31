@@ -20,6 +20,15 @@ https://github.com/froala/design-blocks
 
 https://github.com/aFarkas/html5shiv
 
+https://github.com/google/WebFundamentals
+
+https://github.com/amazeui/amazeui
+
+https://github.com/swagger-api/swagger-ui
+
+https://github.com/tabler/tabler
+
+
 ## CSS相关
 
 normalize.css:
@@ -28,11 +37,20 @@ https://github.com/necolas/normalize.css
 animate.css:
 https://github.com/daneden/animate.css
 
+30-seconds-of-css:
+https://github.com/30-seconds/30-seconds-of-css
+
+### flex
 flexbugs:
 https://github.com/philipwalton/flexbugs
 
+https://github.com/philipwalton/solved-by-flexbox
+
+### 
 CSS-Secrets:
 https://github.com/cssmagic/CSS-Secrets
+
+###  tip/hint/alert/hover
 
 https://github.com/pure-css/pure
 
@@ -44,8 +62,9 @@ https://github.com/IanLunn/Hover
 
 https://github.com/ConnorAtherton/loaders.css
 
-material-design-icons:
-https://github.com/google/material-design-icons
+https://github.com/AllThingsSmitty/css-protips
+
+###
 
 css-in-js:
 https://github.com/MicheleBertoli/css-in-js
@@ -60,11 +79,17 @@ https://github.com/Dogfalo/materialize
 
 https://github.com/appbaseio/dejavu
 
-JavaScript-Garden:
-https://github.com/BonsaiDen/JavaScript-Garden
 
 Font-Awesome:
 https://github.com/FortAwesome/Font-Awesome
+
+https://github.com/thomaspark/bootswatch
+
+css-modules:
+https://github.com/css-modules/css-modules
+
+
+https://github.com/jgthms/bulma
 
 
 ## javascript
@@ -88,12 +113,16 @@ https://github.com/mbeaudru/modern-js-cheatsheet
 promises-book:
 https://github.com/liubin/promises-book
 
-### You-Dont-Need-JavaScript
+### 
+
 You-Dont-Need-JavaScript:
 https://github.com/you-dont-need/You-Dont-Need-JavaScript
   
+https://github.com/coodict/javascript-in-one-pic
 
 ###
+
+https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore
 
 https://github.com/wesbos/JavaScript30
 
@@ -102,7 +131,6 @@ https://github.com/sorrycc/awesome-javascript
 
 ### 
 https://github.com/validatorjs/validator.js
-
 
 https://github.com/impress/impress.js
 
@@ -158,6 +186,8 @@ https://github.com/julianshapiro/velocity
 下拉刷新：
 https://github.com/minirefresh/minirefresh
 
+JavaScript-Garden:
+https://github.com/BonsaiDen/JavaScript-Garden
 
 
 ### material design相关
@@ -167,6 +197,9 @@ https://github.com/material-components/material-components-web
 https://github.com/mui-org/material-ui
 
 https://github.com/google/material-design-lite
+
+material-design-icons:
+https://github.com/google/material-design-icons
 
 
 ### jQuery
@@ -229,6 +262,8 @@ https://github.com/xitu/Under-the-hood-ReactJS
 https://github.com/gajus/react-css-modules
 
 https://github.com/react-toolbox/react-toolbox
+
+https://github.com/STRML/react-grid-layout
 
 react-dates:
 https://github.com/airbnb/react-dates
@@ -434,6 +469,7 @@ https://github.com/me115/design_patterns
 
 https://github.com/iluwatar/java-design-patterns
 
+https://github.com/shichuan/javascript-patterns
 
 https://github.com/krasimir/react-in-patterns
 
@@ -488,4 +524,8 @@ https://github.com/ossu/computer-science
 
 https://github.com/ryanburgess/engineer-manager
 
+https://github.com/InterviewMap/CS-Interview-Knowledge-Map
+
+
+https://github.com/humanwhocodes/computer-science-in-javascript
 
