@@ -17,7 +17,7 @@ https://github.com/videojs/video.js
 flexbugs:
 https://github.com/philipwalton/flexbugs
 
-<<CSS-Secrets>>:
+CSS-Secrets:
 https://github.com/cssmagic/CSS-Secrets
 
 https://github.com/JedWatson/classnames
@@ -35,7 +35,7 @@ https://github.com/olton/Metro-UI-CSS
 
 ## javascript
 
-<<You-Dont-Need-JavaScript>>:
+You-Dont-Need-JavaScript:
 https://github.com/you-dont-need/You-Dont-Need-JavaScript
   
 https://github.com/DrkSephy/es6-cheatsheet
@@ -83,7 +83,6 @@ https://github.com/gionkunz/chartist-js
 https://github.com/frappe/charts
 
 https://github.com/apache/incubator-echarts
-
 ================
 
 https://github.com/jlmakes/scrollreveal
@@ -93,7 +92,7 @@ https://github.com/highlightjs/highlight.js
 
 ## React相关
 
-<<深入 React 技术栈>>:
+深入 React 技术栈:
 https://github.com/arcthur/react-book-examples
 
 https://github.com/react-guide/react-basic
@@ -111,6 +110,7 @@ preact
 https://github.com/preactjs/preact
 
 redux:
+=
 https://github.com/xgrommx/awesome-redux
 
 https://github.com/reduxjs/reselect
@@ -122,6 +122,7 @@ redux-tutorial中文版:
 https://github.com/react-guide/redux-tutorial-cn
 
 https://github.com/tayiorbeii/egghead.io_redux_course_notes
+=
 
 react-admin:
 https://github.com/marmelab/react-admin
@@ -153,10 +154,10 @@ https://github.com/basarat/typescript-book
 
 ## Node.js
 
-<<一起学 Node.js>>:
+一起学 Node.js:
 https://github.com/nswbmw/N-blog
 
-<<Node.js 包教不包会>>:
+Node.js 包教不包会:
 https://github.com/alsotang/node-lessons
 
 
